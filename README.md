@@ -1,4 +1,4 @@
-<img src="https://im7.ezgif.com/tmp/ezgif-7-df73659c7163.gif" width="1000">
+<img src="https://raw.githubusercontent.com/correaswebert/correaswebert/main/matrix.gif" width="1000">
 
 <p align="center">
   <a href="https://correaswebert.medium.com">
