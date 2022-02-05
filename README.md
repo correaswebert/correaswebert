@@ -1,28 +1,25 @@
-<img src="https://raw.githubusercontent.com/correaswebert/correaswebert/main/matrix.gif" width="1000">
+<a
+  href="https://correa.swebert.xyz"
+  alt="personal website"
+  target="_blank"
+  rel="author"
+>
+  <img
+    style="border-radius: 10px; box-shadow: 0 0 20px #333;"
+    src="./assets/matrix.gif"
+    width="1000"
+  />
+</a>
 
-<p align="center">
-  <a href="https://correaswebert.medium.com">
-    <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111502.svg" />
-  </a>
-  ⠀⠀
-  <a href="https://twitter.com/correaswebert">
-    <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-  </a>
-  ⠀⠀
-  <a href="https://www.linkedin.com/in/correaswebert">
-    <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-  </a>
-  ⠀⠀
-  <a href="https://swebert.codes">
-    <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/1017/1017466.svg" />
-  </a>
-</p>
+<br />
 
----
+<details>
+  <summary></summary>
+  <br />
 
-<p align="center">
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/167/167755.svg" />⠀⠀
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/4046/4046880.svg" />⠀⠀
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/3997/3997778.svg" />⠀⠀
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/1869/1869315.svg" />⠀⠀
-</p>
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=correaswebert&show_icons=true&theme=chartreuse-dark&count_private=true&hide=stars&hide_rank=true&custom_title=glitch%20in%20the%20matrix..."
+    />
+  </p>
+</details>
