@@ -2,8 +2,7 @@
   href="https://correa.swebert.xyz"
   alt="personal website"
   target="_blank"
-  rel="author"
->
+  rel="author">
   <img
     style="border-radius: 10px; box-shadow: 0 0 20px #333;"
     src="./assets/matrix.gif"
