@@ -10,8 +10,6 @@
   />
 </a>
 
-<br />
-
 <details>
   <summary></summary>
   <br />
