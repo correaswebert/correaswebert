@@ -20,3 +20,8 @@
     />
   </p>
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F78DA7,100:0693E3&height=73&section=footer">
+</p>
+
