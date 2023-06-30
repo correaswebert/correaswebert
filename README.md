@@ -11,6 +11,7 @@
 </a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Static Variables Thead Safe](https://blog.swebert.xyz/posts/are-static-variables-thead-safe/)
 <!-- BLOG-POST-LIST:END -->
 
 
