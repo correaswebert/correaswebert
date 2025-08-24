@@ -16,5 +16,5 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.swebert.xyz/index.xml"
+          feed_list: "https://blog.swebert.xyz/rss.xml"
 
